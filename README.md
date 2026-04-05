@@ -459,18 +459,3 @@ Based on research in:
 ## 📄 License
 
 MIT License
-
-## 🤝 Contributing
-
-Contributions welcome! Please:
-1. Fork the repo
-2. Create a feature branch
-3. Submit a pull request
-
-## 📧 Contact
-
-For questions or support, open an issue on GitHub.
-
----
-
-**Built with ❤️ for multi-hop reasoning over Tech & AI news**
